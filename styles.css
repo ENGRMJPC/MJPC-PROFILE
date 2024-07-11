@@ -79,7 +79,7 @@
     }
     
     .center-text {
-        text-transform: uppercase;
+        text-transform: capitalize;
         font-family: 'Poppins', sans-serif;
         font-size: larger;
         width: 50%;
@@ -180,7 +180,6 @@
     
     .informal-education {
         width: 40%;
-        height: 100vh;
         background-color: #EEEEEE;
         border-radius: 1rem;
         font-family: 'Poppins', sans-serif;
