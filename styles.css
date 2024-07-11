@@ -79,7 +79,6 @@
     }
     
     .center-text {
-        text-transform: capitalize;
         font-family: 'Poppins', sans-serif;
         font-size: larger;
         width: 50%;
