@@ -398,7 +398,6 @@
     }
     
     .center-text {
-        text-transform: uppercase;
         font-family: 'Poppins', sans-serif;
         font-size: small;
         width: 50%;
@@ -408,6 +407,10 @@
     .name {
         color: #068FFF ;
         font-weight: bolder;
+    }
+
+    .certifications {
+        color: #068FFF ;
     }
     
     .center-text p {
